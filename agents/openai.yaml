@@ -1,0 +1,8 @@
+interface:
+  display_name: "bio-Faceless Void"
+  short_description: "训练二维显微切片 U-Net，按动物验证分割，并导出掩膜、叠加图和定量结果"
+  icon_small: "./assets/faceless-void.png"
+  icon_large: "./assets/faceless-void.png"
+  brand_color: "#7749AD"
+  default_prompt: "使用 $bio-faceless-void 检查我的二维切片和标注，按动物划分训练与测试，训练 U-Net 并汇总每只动物的结果。"
+

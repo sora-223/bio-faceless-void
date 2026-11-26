@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+demo-data/
+runs/
+work/
+*.pt
+*.pth
+*.tif
+*.tiff
+.DS_Store
+
